@@ -34,8 +34,6 @@ For this project, we will be collaborating on various domains like:
 - Prototyping Mobile Application using Flutter 
 - UI/UX Designing
 
-This would be an enriching experience for all of us that are part of this team.
-
 ## How our project is more accessible for visually impaired people
 
 - Every feature, from image labeling to currency detection uses a text-to-speech feature to speak out to the user whatever is detected 🗣️
